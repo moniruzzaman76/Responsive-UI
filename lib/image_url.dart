@@ -1,0 +1,5 @@
+String img1="https://english.news.cn/20221219/676c9ba6903645a7a4d99147cf0fe2c1/501d45a089584c1192b2f3dd08f2689b.jpg";
+
+String text1 = """Argentina is renowned for its strong football tradition and success in the sport.The national team,known as the Argentina national football team, has won the FIFA World Cup multiple times.""";
+
+String img2="https://images-wixmp-ed30a86b8c4ca887773594c2.wixmp.com/f/fdf703a7-1c41-4eb2-90a2-daad3ddebc1f/dfkp2hy-f356f9e6-3e0f-4cab-b23e-35261bc08635.png/v1/fit/w_828,h_980/lionel_messi_with_emir_of_qatar_tamim_world_cup_22_by_a8wassel_dfkp2hy-414w-2x.png?token=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJzdWIiOiJ1cm46YXBwOjdlMGQxODg5ODIyNjQzNzNhNWYwZDQxNWVhMGQyNmUwIiwiaXNzIjoidXJuOmFwcDo3ZTBkMTg4OTgyMjY0MzczYTVmMGQ0MTVlYTBkMjZlMCIsIm9iaiI6W1t7ImhlaWdodCI6Ijw9MzEwMSIsInBhdGgiOiJcL2ZcL2ZkZjcwM2E3LTFjNDEtNGViMi05MGEyLWRhYWQzZGRlYmMxZlwvZGZrcDJoeS1mMzU2ZjllNi0zZTBmLTRjYWItYjIzZS0zNTI2MWJjMDg2MzUucG5nIiwid2lkdGgiOiI8PTI2MTkifV1dLCJhdWQiOlsidXJuOnNlcnZpY2U6aW1hZ2Uub3BlcmF0aW9ucyJdfQ.0ARtjPQ81f7gCUAUNZUKDezo6YOY8o4AcJYlPdfvNCY";
