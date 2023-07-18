@@ -30,7 +30,7 @@ class _HomePageScreenState extends State<HomePageScreen> {
           direction: isPortrait? Axis.vertical:Axis.horizontal,
           children: [
             Expanded(
-              flex: 3,
+              flex: 2,
               child: Container(
                 decoration: BoxDecoration(
                     shape: BoxShape.circle,
@@ -39,10 +39,10 @@ class _HomePageScreenState extends State<HomePageScreen> {
               ),
             ),
             Expanded(
-              flex: 4,
+              flex: 3,
                 child: SingleChildScrollView(
                   child: Column(
-                    mainAxisAlignment: MainAxisAlignment.start,
+                   crossAxisAlignment: isPortrait? CrossAxisAlignment.center:CrossAxisAlignment.start,
                     mainAxisSize: MainAxisSize.min,
                     children: [
                       SizedBox(height: size.height / 60,),
@@ -59,6 +59,9 @@ class _HomePageScreenState extends State<HomePageScreen> {
                         spacing: 8.0,
                         runSpacing: 8.0,
                         children: [
+                          Image.network(img2, height: 120, width: 120, fit: BoxFit.cover,),
+                          Image.network(img2, height: 120, width: 120, fit: BoxFit.cover,),
+                          Image.network(img2, height: 120, width: 120, fit: BoxFit.cover,),
                           Image.network(img2, height: 120, width: 120, fit: BoxFit.cover,),
                           Image.network(img2, height: 120, width: 120, fit: BoxFit.cover,),
                           Image.network(img2, height: 120, width: 120, fit: BoxFit.cover,),
